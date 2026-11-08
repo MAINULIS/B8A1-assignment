@@ -7,7 +7,6 @@
     // Environment Settings
     "module": "esnext",
     "target": "esnext",
-    "types": [],
 
     "strict": true,
     "moduleDetection": "force",
