@@ -8,5 +8,5 @@ In this assignment we solved 8 problems. That contains:
 6. promise resolve methods
 7. Object-oriented-programming problem solve
 
-Blog-1:
-Blog-2:
+Blog-1: https://github.com/MAINULIS/B8A1-assignment/blob/main/public-private-protected-readonly.md
+Blog-2: https://github.com/MAINULIS/B8A1-assignment/blob/main/union-vs-Intersection%20.md
